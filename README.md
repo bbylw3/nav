@@ -1,8 +1,10 @@
 # WebNav Hub
 
-
+![WebNav Hub Logo](assets/favicon.svg)
 
 WebNav Hub 是一个现代化、美观且功能丰富的网站导航页面，旨在为用户提供快速访问常用网站的便捷方式。它具有响应式设计、暗色/亮色主题切换、实时搜索功能和流畅的动画效果。
+
+**仓库地址**: https://github.com/bbylw3/nav
 
 ## ✨ 功能特点
 
@@ -35,8 +37,8 @@ WebNav Hub 是一个现代化、美观且功能丰富的网站导航页面，旨
 ### 克隆仓库
 
 ```bash
-git clone https://github.com/yourusername/webnav-hub.git
-cd webnav-hub
+git clone https://github.com/bbylw3/nav.git
+cd nav
 ```
 
 ### 本地运行
@@ -73,7 +75,7 @@ GitHub Pages 是 GitHub 提供的免费静态网站托管服务。
 4. 在 "Source" 部分选择 "Deploy from a branch"
 5. 选择分支（通常是 `main` 或 `master`）和文件夹（`/root`）
 6. 点击 "Save"
-7. 几分钟后，您的网站将在 `https://yourusername.github.io/webnav-hub` 上线
+7. 几分钟后，您的网站将在 `https://bbylw3.github.io/nav` 上线
 
 ### 2. Cloudflare Pages
 
@@ -204,11 +206,11 @@ Vercel 是一个针对前端项目优化的部署平台。
 
 如有问题或建议，请通过以下方式联系：
 
-- 开启 Issue：[GitHub Issues](https://github.com/yourusername/webnav-hub/issues)
-- 邮箱：your.email@example.com
+- 开启 Issue：[GitHub Issues](https://github.com/bbylw3/nav/issues)
+- 邮箱：bbylw3@example.com
 
 ## ⭐ Star History
 
 如果这个项目对您有帮助，请考虑给它一个星标！
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/webnav-hub&type=Date)](https://star-history.com/#yourusername/webnav-hub&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=bbylw3/nav&type=Date)](https://star-history.com/#bbylw3/nav&Date)
