@@ -1,6 +1,6 @@
 # WebNav Hub
 
-![WebNav Hub Logo](assets/favicon.svg)
+
 
 WebNav Hub 是一个现代化、美观且功能丰富的网站导航页面，旨在为用户提供快速访问常用网站的便捷方式。它具有响应式设计、暗色/亮色主题切换、实时搜索功能和流畅的动画效果。
 
